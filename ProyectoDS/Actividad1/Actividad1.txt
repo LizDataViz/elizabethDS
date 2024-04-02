@@ -1,1 +1,16 @@
 Links a los Datasets:
+
+Indice de Pobreza Hogares: 
+Dataset: https://drive.google.com/file/d/1nZi3yKKygCkStxCtW9gfeUH2kXI96dLY/view?usp=sharing
+Fuente: https://microdatos.dane.gov.co/index.php/catalog/792/data-dictionary/F43?file_name=Hogares%20(nacional)
+Variables - Personas (cantidad), internet en hogar y region
+
+Convivencia y Seguridad Ciudadana (Filtro de delitos): 
+Dataset: https://drive.google.com/file/d/1-GuyUBhNfRDgheoHe8p0J0d1w9pj4LQr/view?usp=sharing
+Fuente: https://microdatos.dane.gov.co/index.php/catalog/790/data-dictionary/F60?file_name=Filtro%20de%20delitos
+Variables - Hurto objeto personal, hakeo, fraude bancario
+
+Convivencia y Seguridad Ciudadana (Problemas, desacuerdos, conflictos o disputas (ciclo largo con priorizacion)):
+https://drive.google.com/file/d/1_GazeSJQQvJdmhAg-Tj142AAAvzZ_f3a/view?usp=sharing
+Fuente: https://microdatos.dane.gov.co/index.php/catalog/790/data-dictionary/F69?file_name=Problemas,%20desacuerdos,%20conflictos%20o%20disputas%20(ciclo%20largo%20con%20priorizacion)
+Variables - Escala de afectacion, maltrato y acoso laboral, discriminacion por orientacion sexual
